@@ -1,7 +1,12 @@
 {
-    "addons": {
-        "gitspent@robingeiger.de": {
-            "updates": []
+  "addons": {
+    "gitspent@robingeiger.de": {
+      "updates": [
+        {
+          "version": "1.1.0",
+          "update_link": "https://github.com/kaffeetasse/GitSpent-Releases/releases/download/v1.1.0/gitspent-1.1.0.xpi"
         }
+      ]
     }
+  }
 }
